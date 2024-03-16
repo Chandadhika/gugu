@@ -1,0 +1,15 @@
+.section {
+    background-color: blanchedalmond;
+}
+.headers {
+    color: rgb(39, 39, 239);
+}
+#email {
+    background-color: rgb(11, 189, 238);
+}
+#github {
+    background-color: aqua;
+}
+#portfolio {
+    background-color: blue;
+}
